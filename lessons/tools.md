@@ -1,6 +1,6 @@
 Tools Needed
  
-
+https://devopsclass.atlassian.net/wiki/spaces/IS/blog/2022/12/24/196609/How+to+connect+to+EC2+instance+using+Mobaxterm
  
 
 **Notepad** ++: Text Editor For Code Editing  Notepad++ is a text and source code editor for use with Microsoft Windows. It supports tabbed editing, which allows working with multiple open files in a single window. The project's name comes from the C increment operator. Notepad++ is distributed as free software . Get it Here:https://notepad-plus-plus.org/downloads/
